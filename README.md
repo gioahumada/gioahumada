@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giovanni Ahumada</h1>
-<h3 align="center">[giooo.cl](giooo.cl)</h3>
+<h3 align="center">Now, i'm studying at PUCV.</h3>
 
 <p align="left"> <a href="https://twitter.com/rockjaj" target="blank"><img src="https://img.shields.io/twitter/follow/rockjaj?logo=twitter&style=for-the-badge" alt="rockjaj" /></a> </p>
 
