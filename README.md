@@ -1,14 +1,17 @@
 # About Me 👨🏻‍💻
-## 🧑🏻‍🎓
+### <🧑🏻‍🎓>
 I'm currently a student at Pontificia Universidad Católica de Valparaíso (PUCV), pursuing my passion for technology and software development. I'm dedicated to expanding my knowledge and skills in programming, aiming to become a proficient software engineer.
 
-## 🕵🏻‍♂️
 I'm interested in exploring new technologies, working on innovative projects, and contributing to open-source communities. My academic journey has equipped me with a solid foundation in various programming languages and development tools.
+
+
+
+### </🧑🏻‍🎓>
 
 # Socials 🏄🏻‍♂️
 <p align="left">
-  <a href="YourYouTubeLinkHere"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=005AD6" style="border-radius:9999px;"/></a>
-  <a href="YourLinkedInLinkHere"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=005AD6" style="border-radius:9999px;"/></a>
+  <a href="https://www.youtube.com/channel/UCjJBeArJEuYkEOAlaFvLLHA"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=005AD6" style="border-radius:9999px;"/></a>
+  <a href="https://www.linkedin.com/in/gioahumada/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=005AD6" style="border-radius:9999px;"/></a>
   <a href="mailto:giovanni.ahumada.t@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=005AD6" style="border-radius:9999px;"/></a>
 </p>
 
