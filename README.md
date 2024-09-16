@@ -5,19 +5,6 @@
   echo "👋 Hello, I'm Giovanni Ahumada";
 ?>
 ```
-
-```html
-<🏄🏻‍♂️>
-I'm currently a student at Pontificia Universidad Católica de Valparaíso (PUCV), passionately
-diving into the world of technology and software development. My goal is to expand my knowledge
-and skills in programming, working towards becoming a proficient software engineer.
-
-I have a keen interest in exploring new technologies, participating in innovative projects, and
-contributing to open-source communities. My academic journey has provided me with a solid
-foundation in various programming languages and development tools, and I am eager to apply
-this knowledge in real-world scenarios.
-<🏄🏻‍♂️/>
-```
 ---
 
 ## 🌐 Connect with Me
