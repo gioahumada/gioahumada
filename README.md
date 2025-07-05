@@ -1,50 +1,53 @@
-# 👨🏻‍💻 About Me
+<div align="center">
 
-```php
-<?php
-  echo "👋 Hello, I'm Giovanni Ahumada";
-?>
-```
+<img src="https://github.com/gioahumada.png" width="120px" alt="Avatar de Giovanni Ahumada" style="border-radius:50%;" />
+
+`Giovanni Ahumada`
+
+<a href="https://gioahumada.cl">gioahumada.cl</a>
+
+</div>
+
 ---
 
-## 🌐 Connect with Me
-
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCjJBeArJEuYkEOAlaFvLLHA" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=8E8E93" style="border-radius:12px;box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);"/></a>
-  <a href="https://www.linkedin.com/in/gioahumada/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=8E8E93" style="border-radius:12px;box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);"/></a>
-  <a href="mailto:giovanni.ahumada.t@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=8E8E93" style="border-radius:12px;box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);"/></a>
+  <a href="https://www.linkedin.com/in/gioahumada/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.youtube.com/channel/UCjJBeArJEuYkEOAlaFvLLHA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="mailto:giovanni.ahumada.t@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-## 🛠️ Tech Stack
+---
+
+/𝚝𝚎𝚌𝚑-𝚜𝚝𝚊𝚌𝚔
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&color=8E8E93" style="border-radius:12px;box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white&color=8E8E93" style="border-radius:12px;box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-SASS-%23CC6699?style=for-the-badge&logo=sass&logoColor=white&color=8E8E93" style="border-radius:12px;box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);" alt="SASS" />
-  <img src="https://img.shields.io/badge/-Gulp-%23CF4647?style=for-the-badge&logo=gulp&logoColor=white&color=8E8E93" style="border-radius:12px;box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);" alt="Gulp" />
-  <img src="https://img.shields.io/badge/-JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=white&color=8E8E93" style="border-radius:12px;box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white&color=8E8E93" style="border-radius:12px;box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);" alt="PHP" />
-  <img src="https://img.shields.io/badge/-MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white&color=8E8E93" style="border-radius:12px;box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-C-%2300599C?style=for-the-badge&logo=c&logoColor=white&color=8E8E93" style="border-radius:12px;box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);" alt="C" />
-  <img src="https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=white&color=8E8E93" style="border-radius:12px;box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);" alt="Python" />
-  <img src="https://img.shields.io/badge/-Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=8E8E93" style="border-radius:12px;box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);" alt="Figma" />
-  <img src="https://img.shields.io/badge/-Git-fc6d26?style=for-the-badge&logo=git&logoColor=white&color=8E8E93" style="border-radius:12px;box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);" alt="Git" />
-  <img src="https://img.shields.io/badge/-Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white&color=8E8E93" style="border-radius:12px;box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);" alt="Adobe Premiere Pro" />
-  <img src="https://img.shields.io/badge/-Adobe%20Photoshop-%2331A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white&color=8E8E93" style="border-radius:12px;box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);" alt="Adobe Photoshop" />
-  <img src="https://img.shields.io/badge/-Adobe%20Illustrator-%23FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white&color=8E8E93" style="border-radius:12px;box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);" alt="Adobe Illustrator" />
-  <img src="https://img.shields.io/badge/-Adobe%20Lightroom-%2317B5FE?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white&color=8E8E93" style="border-radius:12px;box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);" alt="Adobe Lightroom" />
+  <img src="https://img.shields.io/badge/React-20232A?style=simple&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Astro-000000?style=simple&logo=astro&logoColor=FFFFFF" alt="Astro">
+  <img src="https://img.shields.io/badge/Expo-000020?style=simple&logo=expo&logoColor=FFFFFF" alt="Expo">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=simple&logo=laravel&logoColor=FFFFFF" alt="Laravel">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=simple&logo=tailwind-css&logoColor=FFFFFF" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=simple&logo=php&logoColor=FFFFFF" alt="PHP">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=simple&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=simple&logo=python&logoColor=FFFFFF" alt="Python">
+  <img src="https://img.shields.io/badge/Java-007396?style=simple&logo=openjdk&logoColor=FFFFFF" alt="Java">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=simple&logo=c&logoColor=000000" alt="C">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=simple&logo=html5&logoColor=FFFFFF" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=simple&logo=css3&logoColor=FFFFFF" alt="CSS3">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=simple&logo=sass&logoColor=FFFFFF" alt="Sass">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=simple&logo=mysql&logoColor=FFFFFF" alt="MySQL">
+  <img src="https://img.shields.io/badge/Git-F05032?style=simple&logo=git&logoColor=FFFFFF" alt="Git">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=simple&logo=figma&logoColor=FFFFFF" alt="Figma">
 </p>
 
-## 📊 GitHub Stats
+---
 
-<p align="center">
+/𝚜𝚝𝚊𝚝𝚜
+
+<div align="center">
   <a href="https://github.com/gioahumada">
-    <img src="https://github-readme-stats.vercel.app/api?username=gioahumada&show_icons=true&theme=github_dark&border_color=8E8E93&icon_color=8E8E93&title_color=8E8E93" style="border-radius:12px;box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gioahumada&theme=github_dark" alt="Resumen del Perfil de Giovanni"/>
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/gioahumada">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gioahumada&layout=compact&theme=github_dark&border_color=8E8E93&title_color=8E8E93" style="border-radius:12px;box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gioahumada&theme=github_dark&layout=compact" alt="Repositorios por Lenguaje"/>
   </a>
-</p>
+</div>
